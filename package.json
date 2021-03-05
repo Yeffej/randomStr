@@ -1,0 +1,19 @@
+{
+  "name": "random-stryeffej",
+  "version": "1.0.0",
+  "description": "This package going to try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Yefri Encarnación",
+    "email": "yefriej128@gmail.com"
+  },
+  "license": "MIT",
+  "bin": {
+    "randomStr": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
