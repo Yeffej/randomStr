@@ -1,19 +1,30 @@
 {
   "name": "random-stryeffej",
   "version": "1.0.0",
-  "description": "This package going to try",
+  "description": "This is a package of npm that print on console random strings",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": {
-    "name": "Yefri Encarnación",
-    "email": "yefriej128@gmail.com"
-  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "node",
+    "string",
+    "random"
+  ],
+  "author": "Yefri Encarnación <yefriej128@gmail.com>",
   "license": "MIT",
   "bin": {
-    "randomStr": "./bin/global.js"
+    "randomStr": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeffej/randomStr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yeffej/randomStr/issues"
+  },
+  "homepage": "https://github.com/Yeffej/randomStr#readme"
 }
