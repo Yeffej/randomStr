@@ -1,22 +1,24 @@
 
-# random-messages
+# random-strings
 
-Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+When i start a project sometimes can be relly ackward find a name for a name of a project 
+or for the first commit of a project, here you have random commits to use them... 
+...
 
 ## Install
 
 ```npm
-npm install -g random-msg
+npm install -g random-stryeffej
 ```
 
 # Usage
 
 ```bash
-random-msg
+randomStr
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/platzi/npm-random-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [randomStr](https://github.com/Yeffej/randomStr)
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
